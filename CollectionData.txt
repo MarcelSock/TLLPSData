@@ -191,6 +191,9 @@ Monsters/Monster_deedge_rare
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
 ;
+Diaper
+Monsters/Monster_quibble
+Monsters/Monster_phangler
 GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM

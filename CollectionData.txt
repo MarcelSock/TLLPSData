@@ -1,5 +1,7 @@
 
 EM:
+Monsters/Monster_kayna_undof
+Monsters/Monster_kayna_rare_undof
 Monsters/Monster_toejammer
 Monsters/Monster_toejammer_rare
 Monsters/Monster_potbelly

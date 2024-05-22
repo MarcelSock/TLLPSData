@@ -187,6 +187,7 @@ Monsters/Monster_pummel
 Monsters/Monster_tiawa
 Monsters/Monster_arackulele
 Monsters/Monster_punkleton
+Monsters/Monster_marshflamo
 Monsters/Monster_deedge
 Monsters/Monster_deedge_rare
 Monsters/Monster_ffydill

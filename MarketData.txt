@@ -6,6 +6,7 @@ Monsters/Monster_potbelly diamonds=0
 Monsters/Monster_tweedle diamonds=0
 Monsters/Monster_flootfly diamonds=0
 Monsters/Monster_oaktopus diamonds=0
+Monsters/Monster_handmond diamonds=15
 Monsters/Monster_dandidoo diamonds=0
 Monsters/Monster_likho diamonds=0
 Monsters/Monster_wadee diamonds=0

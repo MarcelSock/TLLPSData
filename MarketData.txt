@@ -1,7 +1,7 @@
 
 EM
 monsters:
-Monsters/Monster_toejammer diamonds=0
+Monsters/Monster_psychic diamonds=0
 Monsters/Monster_potbelly diamonds=0
 Monsters/Monster_tweedle diamonds=0
 Monsters/Monster_flootfly diamonds=0
@@ -13,7 +13,7 @@ Monsters/Monster_varrow diamonds=0
 Monsters/Monster_quibble diamonds=0
 Monsters/Monster_spunge diamonds=0
 Monsters/Monster_choral diamonds=0
-Monsters/Monster_dulsylvan diamonds=0
+Monsters/Monster_dulsylvan_rare diamonds=0
 Monsters/Monster_banno diamonds=0
 Monsters/Monster_stoopa diamonds=0
 Monsters/Monster_maulch coins=0

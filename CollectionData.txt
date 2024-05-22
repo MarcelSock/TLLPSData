@@ -116,7 +116,7 @@ Monsters/Monster_cybop
 Monsters/Monster_clamble
 Monsters/Monster_whimstlop
 Monsters/Monster_shellbeat
-Monsters/Monster_schmoochle
+Monsters/Special/Monster_melochness
 Monsters/Monster_plixie
 Monsters/Monster_reebro
 Monsters/Monster_wheezel

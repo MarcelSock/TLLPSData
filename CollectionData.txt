@@ -9,6 +9,9 @@ Monsters/Monster_oaktopus
 Monsters/Monster_oaktopus_rare
 Monsters/Monster_dandidoo
 Monsters/Monster_likho
+Monsters/Monster_clamble
+Monsters/Monster_furcorn
+Monsters/Monster_ghazt_undof
 Monsters/Monster_wadee
 Monsters/Monster_varrow
 Monsters/Monster_varrow_rare
